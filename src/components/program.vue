@@ -60,7 +60,7 @@ This programs is designed for those who exercises only for their body fitness no
   .card {
     display: flex;
     width: 100%;
-    height: 350px;
+    height: 400px;
     border: 2px solid #8F00FF;
     border-radius: 15px;
     flex-direction:column;
