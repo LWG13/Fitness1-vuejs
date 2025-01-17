@@ -132,6 +132,8 @@ body{
     text-decoration: none;
     color: white;
     padding: 5px;
+    font-weight: 550;
+    font-size: 20px;
     font-family: "Centra", sans-serif !important;
   }
   .dropdown {
@@ -196,6 +198,8 @@ body{
 .dropdown-item a{
   text-decoration: none;
   color: white;
+  font-weight: 550;
+  font-size: 17px;
 }
 .grid{
   width: 100%;
