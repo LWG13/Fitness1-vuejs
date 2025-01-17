@@ -115,7 +115,7 @@
     height: 165px;
   }
   .reason-left .left .gym1:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
     transition: 0.5s;
   }
   .reason-left .left .gym2:hover {
