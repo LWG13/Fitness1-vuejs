@@ -92,7 +92,9 @@
   padding-top: 70px;
   padding-bottom: 80px;
   font-family: Centra;
-    animation: gym1 1.5s;
+  background: #343434;
+  border-radius: 5px;
+  animation: gym1 1.5s;
   }
   .contactForm h1 {
    color:#8F00FF;
@@ -129,8 +131,11 @@
     animation: gym1 1.5s;
   }
   .contactForm form{
-    animation: gym1 1.5s;
-  background: transparent;
+  animation: gym1 1.5s;
+  background: white;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -143,7 +148,7 @@
   height: 50px;
   font-family: Centra;
   display: flex;
-  color: white;
+  color: black;
   animation: gym1 1.5s;
   border-radius: 5px;
   background: white;
