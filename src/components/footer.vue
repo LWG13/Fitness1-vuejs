@@ -41,7 +41,7 @@
     height: 340px;
   }
 .footer img {
-  width: 90px;
+  width: 150px;
 }
   .footer h1 {
     font-size: 43px;
