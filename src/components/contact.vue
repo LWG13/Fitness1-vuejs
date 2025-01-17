@@ -23,8 +23,9 @@
     <div class="top" >
       <h1>CONTACT US</h1>
       <br/>
-      <p>This page is work for contact to know something abou us.</p>
+      <p>This page is work for contact to ask us about something you need to know.</p>
       <p>We provide a lot of service like cardio, gym, sport training and other.</p>
+      <p>You can ask us about club and price of the plan for your schedule.</p>
       <br/><br/>
        <img :src="plate" alt="gym" />
     </div>
