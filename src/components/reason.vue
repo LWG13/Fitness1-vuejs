@@ -116,12 +116,15 @@
   }
   .reason-left .left .gym1:hover {
     transform: scale(1.05);
+    transition: 0.5s;
   }
   .reason-left .left .gym2:hover {
     transform: scale(1.05);
+    transition: 0.5s;
   }
   .reason-left .left .gym3:hover {
     transform: scale(1.05);
+    transition: 0.5s;
   }
   .reason-right{
     width: 100%;
