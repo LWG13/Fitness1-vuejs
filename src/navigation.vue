@@ -106,7 +106,7 @@ body{
   color: white;
   height: 120px;
   display: flex;
-  padding: 5px;
+  padding: 1px;
   justify-content: space-between;
   align-items: center;
   color: white;
