@@ -1,16 +1,29 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from "vue-router"
 import Nav from './navigation.vue'
-import './assets/main.css'
+
+import 'vuetify/styles'; 
+import { createVuetify } from 'vuetify';
+import * as components from 'vuetify/components';
+import * as directives from 'vuetify/directives';
 
 const routes = [
   {
     path: "/",
     component: () => import("./components/home.vue"),
+  },
+  {
+    path: "/contact",
+    component: () => import("./components/contact.vue")
   }
 ]
 const router = createRouter({
   history: createWebHistory(),
   routes
 })
-createApp(Nav).use(router).mount('#app')
+const vuetify = createVuetify({
+  components,
+  directives,
+});
+createApp(Nav).use(vuetify).use(router).mount('#app')
+ 
