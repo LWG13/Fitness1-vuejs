@@ -3,7 +3,7 @@
 </script>
 <template>
   <div class="footer" >
-    <h1>Fitness1</h1>
+    <img :src="logo" alt="fitness1"/>
     <br/>
     <p>Phone Number: +1900 472 940</p>
     <p>Address: Binh Thanh district</p>
@@ -40,6 +40,9 @@
     
     height: 340px;
   }
+.footer img {
+  width: 90px;
+}
   .footer h1 {
     font-size: 43px;
   }
