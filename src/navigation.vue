@@ -46,7 +46,7 @@ const selectOption = (option) => {
       @click="selectOption('Contact')"
         :class="{'dropdown-item isOn': selectedOption === 'Contact', 'dropdown-item': selectedOption != 'Contact'}"
       >
-        <a href="#">Contact</a>
+         <RouterLink to="/contact">Contact</RouterLink>
       </li>
     </div>
   </div>
