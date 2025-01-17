@@ -3,6 +3,7 @@
   import heart from "../../heartF.png"
   import run from "../../run.png"
   import fire from "../../fire.png"
+  import crown from "../../crown.png"
 </script>
 <template>
   <div class="program">
@@ -42,7 +43,14 @@ This programs is designed for those who exercises only for their body fitness no
               <p>This program is suitable for you who wants to get rid of your fat and lose their weight.</p>
             </div>
           </v-col>
-          
+          <v-col cols="12" sm="4" lg="4" >
+            <div class="card" >
+              <img :src="crown" alt="club" />
+              <h2>Club Activity</h2>
+              <p>This program is you if you want to join club of any like sport and other, we have gym club, material arts club, sport club that support you for your life.</p>
+            </div>
+          </v-col>
+
         </v-row>
       </v-container>
     </div>
