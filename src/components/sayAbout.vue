@@ -137,7 +137,7 @@
   }
   .review-image img:hover {
     transform: scale(1.05);
-    
+    transition: 0.5s;
   }
   .homeName {
    font-size: 42px;
