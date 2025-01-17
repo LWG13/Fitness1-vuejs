@@ -101,17 +101,27 @@
 
     padding-left: 20px;
     animation: gym1 0.8s;
-  }
+  }  
   .reason-left .left .gym2 {
     width: 100%;
     height: 185px;
     margin-bottom: 20px;
     border: 1px solid white;
   }
+
   .reason-left .left .gym3 {
     border: 1px solid white;
     width: 100%;
     height: 165px;
+  }
+  .reason-left .left .gym1:hover {
+    transform: scale(1.05);
+  }
+  .reason-left .left .gym2:hover {
+    transform: scale(1.05);
+  }
+  .reason-left .left .gym3:hover {
+    transform: scale(1.05);
   }
   .reason-right{
     width: 100%;
