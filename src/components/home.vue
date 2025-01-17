@@ -7,7 +7,7 @@
   import Footer from "./footer.vue"
 </script>
 <template>
-<div class="homeGrid">
+
  <div class="home">
   <Banner />
   <Program />
@@ -16,14 +16,10 @@
   <SayAbout />
   <Footer />
  </div>
-</div>
+
 </template>
 <style scoped>
-  .homeGrid{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+  
   .home{
     margin-top: 150px;
     width: 100%;
