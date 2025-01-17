@@ -125,7 +125,7 @@
    font-family: Centra;
   }
   .banner-left{
-    width: 98%;
+    width: 100%;
     height: auto;
     background: #211e1e;
     display: flex;
@@ -136,7 +136,7 @@
     flex-direction: column;
   }
   .banner-right{
-    width: 98%;
+    width: 100%;
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
