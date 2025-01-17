@@ -21,7 +21,7 @@
 <style scoped>
   
   .home{
-    margin-top: 150px;
+    margin-top: 125px;
     width: 100%;
     height: auto;
   }
