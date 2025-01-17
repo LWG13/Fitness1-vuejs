@@ -135,6 +135,9 @@
     border-radius: 8px;
     border: 2px solid #8F00FF;
   }
+  .review-image img:hover {
+    transform: scale(1.05);
+  }
   .homeName {
    font-size: 42px;
    margin-left: 5px;
