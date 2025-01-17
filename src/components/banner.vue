@@ -97,6 +97,7 @@
     color: white;
     display: flex;
     animation: gym1 1.5s;
+    padding: 5px;
   }
   .info {
     display: flex;
