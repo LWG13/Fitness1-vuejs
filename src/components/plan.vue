@@ -174,7 +174,7 @@
   .benefit {
     display: flex;
     margin-top: 50px;
-    width: 100%;
+    width: 90%;
   }
   .benefit img {
     width: 70px;
@@ -182,7 +182,7 @@
     margin-right: 40px;
   }
   .benefit span {
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 500;
   }
 </style>
