@@ -185,4 +185,10 @@
     font-size: 21px;
     font-weight: 500;
   }
+@media only screen and (max-width: 680px) {
+    .benefit span {
+    font-size: 16px;
+    font-weight: 500;
+  }
+}
 </style>
