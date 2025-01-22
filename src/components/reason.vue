@@ -10,10 +10,10 @@
       <v-row class="pa-3">
         <v-col cols="12" sm="6" md="6" lg="6" xl="6" xxl="6" >
           <div class="reason-left">
-            <img :src="gym1" alt="gym1" class="gym1"/>
+            <img :src="gym1" alt="gym1" class="gym1" height="370px"/>
             <div class="left" >
-            <img :src="gym2" alt="gym1" class="gym2" />
-            <img :src="gym3" alt="gym1" class="gym3" />
+            <img :src="gym2" alt="gym1" class="gym2" height="185px"/>
+            <img :src="gym3" alt="gym1" class="gym3" height="165px"/>
             </div>  
           </div>
         </v-col>
