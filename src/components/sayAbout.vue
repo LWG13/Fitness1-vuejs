@@ -58,7 +58,7 @@
         </v-col>
         <v-col cols="12" sm="6" md="6" lg="6" xl="6" xxl="6">
           <div class="review-image" >
-            <img :src="review[select].image" alt="reviewer" />
+            <img :src="review[select].image" alt="reviewer" height="480px"/>
           </div>
         </v-col>
       </v-row>
