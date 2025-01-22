@@ -45,7 +45,7 @@ This programs is designed for those who exercises only for their body fitness no
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="crown" alt="club"  height="105px"/>
+              <img :src="crown" alt="club"  />
               <h2>Club Activity</h2>
               <p>This program is you if you want to join club of any like sport and other, we have gym club, material arts club, sport club that support you for your life.</p>
             </div>
