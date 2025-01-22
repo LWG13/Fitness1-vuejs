@@ -39,7 +39,7 @@
         <v-col cols="12" sm="6" md="6" lg="6" xl="6" xxl="6" class="pa-0">
           <div class="banner-right">
             <img :src="heartRate" alt="heat rate" class="heart" />
-            <img :src="gym" alt="gym" class="gym"/>
+            <img :src="gym" alt="gym" class="gym" height="500px"/>
             <img :src="calo" alt="calo" class="calo" />
           </div>
         </v-col>
