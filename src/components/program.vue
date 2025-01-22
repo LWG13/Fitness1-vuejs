@@ -16,14 +16,14 @@
         <v-row class="pa-2">
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="plate" alt="plate" />
+              <img :src="plate" alt="plate" loading="lazy" />
               <h2>Strength Training</h2>
               <p>In this program, you are trained to improve your strength through many exercises.</p>
             </div>
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="heart" alt="plate" />
+              <img :src="heart" alt="plate" loading="lazy"/>
               <h2>Health Fitness</h2>
               <p>
 This programs is designed for those who exercises only for their body fitness not body building</p>
@@ -31,21 +31,21 @@ This programs is designed for those who exercises only for their body fitness no
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="run" alt="plate" />
+              <img :src="run" alt="plate" loading="lazy"/>
               <h2>Cardio Training</h2>
               <p>In this program, you are trained to do sequential moves in range of 20 until 30 minutes.</p>
             </div>
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="fire" alt="plate" />
+              <img :src="fire" alt="plate" loading="lazy"/>
               <h2>Fat Burning</h2>
               <p>This program is suitable for you who wants to get rid of your fat and lose their weight.</p>
             </div>
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="crown" alt="club" />
+              <img :src="crown" alt="club" loading="lazy"/>
               <h2>Club Activity</h2>
               <p>This program is you if you want to join club of any like sport and other, we have gym club, material arts club, sport club that support you for your life.</p>
             </div>
