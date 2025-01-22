@@ -35,7 +35,7 @@
            </v-col>
            <v-col cols="12" sm="6" md="6" lg="4" xl="4" xxl="4" >
             <div class="plan-item-pre" >
-               <img :src="crown" alt="heart"height="90px" />
+               <img :src="crown" alt="heart" height="90px" />
                <br/><br/>
                <h1>Premium Plan</h1>
                <br/>
