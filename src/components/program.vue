@@ -16,14 +16,14 @@
         <v-row class="pa-2">
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="plate" alt="plate"  height="105px"/>
+              <img :src="plate" alt="plate" />
               <h2>Strength Training</h2>
               <p>In this program, you are trained to improve your strength through many exercises.</p>
             </div>
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="heart" alt="plate" height="105px"/>
+              <img :src="heart" alt="plate" />
               <h2>Health Fitness</h2>
               <p>
 This programs is designed for those who exercises only for their body fitness not body building</p>
@@ -31,14 +31,14 @@ This programs is designed for those who exercises only for their body fitness no
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="run" alt="plate" height="105px"/>
+              <img :src="run" alt="plate" />
               <h2>Cardio Training</h2>
               <p>In this program, you are trained to do sequential moves in range of 20 until 30 minutes.</p>
             </div>
           </v-col>
           <v-col cols="12" sm="4" lg="4" >
             <div class="card" >
-              <img :src="fire" alt="plate"  height="105px"/>
+              <img :src="fire" alt="plate"  />
               <h2>Fat Burning</h2>
               <p>This program is suitable for you who wants to get rid of your fat and lose their weight.</p>
             </div>
